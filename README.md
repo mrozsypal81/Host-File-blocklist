@@ -174,4 +174,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.redditinc.com
 127.0.0.1 www.redditmedia.com
 127.0.0.1 www.redditstatic.com
+
+0.0.0.0 redbubble.com
+0.0.0.0 amazon.com
+0.0.0.0 crunchyroll.com
+
 # End of custom host records.
