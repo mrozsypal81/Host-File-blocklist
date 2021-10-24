@@ -26,4 +26,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 esty.com 
 0.0.0.0 https://www.etsy.com/
 
+127.0.0.1 reddit.com 
+127.0.0.1 myfigurecollection.net 
+127.0.0.1 old.reddit.com  
+127.0.0.1 https://old.reddit.com/  
+127.0.0.1 https://www.reddit.com/ 
+127.0.0.1 https://myfigurecollection.net/ 
+127.0.0.1 https://reddit.com 
+127.0.0.1 amiami.com 
+127.0.0.1 esty.com 
+127.0.0.1 https://www.etsy.com/
 # End of custom host records.
